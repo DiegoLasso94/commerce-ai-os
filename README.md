@@ -2,79 +2,39 @@
 
 ## Vision
 
-Commerce AI OS is an AI-powered business operating system that automates the creation and management of ecommerce brands.
-
-The long-term goal is to build a network of AI agents capable of:
-
-- Finding profitable products
-- Validating market opportunities
-- Creating brands
-- Building ecommerce stores
-- Generating marketing content
-- Publishing on social media
-- Analysing performance
-- Scaling successful businesses
+Commerce AI OS is an autonomous AI system designed to discover profitable ecommerce opportunities, create brands, build stores and automate online businesses with minimal human intervention.
 
 ---
 
-# Project Status
+## Current Version
 
-Current Version: v0.1
-
-Current Phase:
-
-- [ ] Infrastructure
-- [ ] Product Hunter
-- [ ] Brand Hunter
-- [ ] Store Builder
-- [ ] Content Factory
-- [ ] Social Manager
-- [ ] Analytics
+v0.1
 
 ---
 
-# AI Employees
+## Project Status
 
-| Agent | Status |
-|--------|--------|
-| CEO | ⏳ |
-| Scout (Product Hunter) | ⏳ |
-| Nova (Brand Hunter) | ⏳ |
-| Pixel (Designer) | ⏳ |
-| Echo (Marketing) | ⏳ |
-| Ledger (Finance) | ⏳ |
+- ✅ Repository created
+- ⏳ Documentation
+- ⏳ Infrastructure
+- ⏳ n8n
+- ⏳ AI Director
+- ⏳ Product Hunter
 
 ---
 
-# Roadmap
+## Documentation
 
-## Phase 1
-
-Create Scout.
-
-Scout must:
-
-- Search product trends
-- Analyse competitors
-- Calculate margins
-- Generate reports
-
-## Phase 2
-
-Create Nova.
-
-Nova must:
-
-- Generate brand names
-- Check domains
-- Check social usernames
-
-## Phase 3
-
-Store Builder
-
-Generate ecommerce stores automatically.
+| File | Description |
+|------|-------------|
+| docs/architecture.md | System architecture |
+| docs/roadmap.md | Development roadmap |
+| docs/agents.md | AI employees |
+| docs/workflows.md | n8n workflows |
+| docs/tech-stack.md | Technologies |
+| docs/api-keys.md | APIs |
+| docs/changelog.md | Version history |
 
 ---
 
-Created by Diego + ChatGPT
+Created by Diego & ChatGPT
